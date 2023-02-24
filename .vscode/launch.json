@@ -5,8 +5,8 @@
             "type": "java",
             "name": "Debug (Launch) with Arguments Prompt",
             "request": "launch",
-            "mainClass": "com.example.ExamplePluginTest",
-            "args": "com.example.ExamplePluginTest --developer-mode",
+            "mainClass": "com.samplepanel.SamplePanelRun",
+            "args": "com.samplepanel.SamplePanelRun --developer-mode",
             "vmArgs": "-ea"
         }
     ]
